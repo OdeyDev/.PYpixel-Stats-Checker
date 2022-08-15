@@ -1,4 +1,4 @@
-# .PYpixel Stats Checker
+# Odey's Hypixel Stat Checker
 
 A stats checker used to check information for a player on the server Hypixel.
 
