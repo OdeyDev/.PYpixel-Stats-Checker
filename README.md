@@ -1,6 +1,6 @@
 <img height=360 width=200  src=logo.png>
 
-# Odey's Hypixel Stat Checker
+# Odey's Hypixel Stats
 
 A stats checker used to check information for a player on the server Hypixel.
 
