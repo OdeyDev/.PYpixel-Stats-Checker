@@ -2,7 +2,10 @@
 
 # Odey's Hypixel Stats
 
-A stats checker used to checkinformation for a player on the server Hypixel.
+A stats checker used to check stats for a player/guild on the server Hypixel.
+
+- <a href="https://github.com/OdeyDev/Odeys-Hypixel-Stats/releases/tag/v1.2.0-stable">Stable build</a>
+- <a href="https://github.com/OdeyDev/Odeys-Hypixel-Stats/releases/tag/v1.2.1-beta">Development Build</a>
 
 **(If regular CMD does not work with colour formatting, you may need to use <a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-gb&gl=gb">Terminal</a> which is available on the Microsoft Store)**
 
