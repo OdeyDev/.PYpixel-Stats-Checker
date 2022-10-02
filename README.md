@@ -16,8 +16,6 @@ Wouldn't be possible without the:
 
 
 # Credits
-
-- Me - Developing it and making ideas <br>
 - Ori <3#0513 - Testing program <br>
 - Jaison#1240 - Suggestions and checking visuals <br>
 
